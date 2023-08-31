@@ -1,13 +1,14 @@
 author1:
-  name:                Robert Smith
-  email:               RSmith_20@oulook.com
-  about:               ""
+  name:                Deaun
+  email:               iamdaeun1225@naver.com
+  about:               "UI/UX Designer"
   picture:
     path:              /assets/img/ryvor.png
   social:
-    github:            ryvor
-    twitter:           _ryvor
-    email:             RSmith_20@outlook.com
+    github:            iamdaeun25
+    instagram:         rkdekdms00
+    email:             iamdaeun1225@naver.com
+    #twitter:           _ryvor
     # linkedin:        <username>
     # stackoverflow:   <number>
     # rss:             <url>
@@ -20,7 +21,6 @@ author1:
     # spotify:         <user>/<number>
     # soundcloud:      <username>
     # lastfm:          <username>
-    # instagram:       <username>
     # flickr:          <string@string>
     # 500px:           <username>
     # dribbble:        <username>

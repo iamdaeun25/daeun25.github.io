@@ -27,16 +27,16 @@ keywords:
   - MultiDomainX
 
 author:               # This should be the same author as first entry in `_data/authors.yml`.
-  name:               Robert Smith
-  email:              RSmith_20@oulook.com
-  about:              "Software Developer"
+  name:               Deaun
+  email:              iamdaeun1225@naver.com
+  about:              "UI/UX Designer"
   picture:
     path:             /assets/img/ryvor.png
   social:
-    github:           ryvor
-    twitter:          _ryvor
-    email:            RSmith_20@outlook.com
-github_username:      ryvor
+    github:           iamdaeun25
+    instagram:        rkdekdms00 
+    email:            iamdaeun1225@naver.com
+github_username:      iamdaeun25
 
 copyright:            © ryvor 2023. All rights reserved.
 legal:                # Add links to the footer. Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..

@@ -1,34 +1,30 @@
 basics:
-  name: "Robert Smith"
-  label: "Software Developer"
-  picture: /assets/img/users/ryvor.png
-  email: "RSmith_20@outlook.com"
+  name: "Daeun"
+  label: "UI/UX Designer"
+  picture: /assets/img/users/cutecat_profile.png
+  email: "iamdaeun1225@naver.com"
   phone: "+44 746 599 3448"
   website: "https://ryvor.github.io/"
   summary: |
-    Hello, I'm Robert Smith. I am an aspiring software developer with a love for all things compuers!
-    I have lots of experience with many different languages ranging from vb.net, to HTML, CSS, JS all the way to assembly and c.
-    Aside from software development, I'm also a quick learner with strong analytical skills and a detail-oriented approach to problem-solving.
-    I thrive in fast-paced, challenging environments where I can use my creativity and technical expertise to develop effective solutions.
-    If you're looking for a dedicated and talented software developer who can bring your vision to life, then look no further!
-    I'm eager to take on new challenges and create amazing software solutions for you and your business.
+    안녕하세요 저는 2년차 UI/UX 디자이너입니다.<br>
+    반갑습니다.
   location:
-    address: "20 Northview Road"
-    postalCode: "LU5 5AH"
-    city: "Dunstable"
-    countryCode: "UK"
-    region: "Bedfordshire"
-    country: "England"
+    #address: "경기도"
+    #postalCode: "LU5 5AH"
+    #city: "Dunstable"
+    countryCode: "KR"
+    region: "경기도 고양시"
+    #country: "South Korea"
   profiles:
     - network: "Github"
-      username: "ryvor"
-      url: "https://github.com/ryvor"
-    - network: "Twitter"
-      username: "_ryvor"
-      url: "https://twitter.com/_ryvor/"
+      username: "iamdaeun25"
+      url: "https://github.com/iamdaeun25"
+    - network: "Instagram"
+      username: "rkdekdms00"
+      url: "https://www.instagram.com/rkdekdms00/"
     - network: "Email"
-      username: "RSmith_20@outlook.com"
-      url: "mailto:RSmith_20@outlook.com"
+      username: "iamdaeun1225"
+      url: "iamdaeun1225@naver.com"
 work:
   - company:     "Carpetright, St Neots"
     position:    "Store Manager"
@@ -84,17 +80,25 @@ projects:
     highlights:
 awards:
 skills:
-  - name:  "Web development"
-    level: "Amateur"
+  - name:  "Adobe Photoshop"
+    level: "professional"
+  - name:  "Adobe Illustrator"
+    level: "professional"
+  - name:  "Figma"
+    level: "professional"
+  - name:  "Power Point"
+    level: "amateur"
+  - name:  "Adobe After Effect"
+    level: "amateur"
+  - name:  "Unreal Engine"
+    level: "junior"
     keywords:
-      - Apache
-      - PHP
-      - HTML
-      - CSS
-      - JS
-languages:
-  - language: "English"
-    fluency:  "Native speaker"
+      - UMG
+      - Widget animation 
+      - Material 
+#languages:
+ # - #language: "Korean"
+    #fluency:  "Native speaker"
 interests:
   - name: "Nature"
     keywords:
