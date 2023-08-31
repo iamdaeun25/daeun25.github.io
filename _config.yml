@@ -4,7 +4,7 @@
 
 # General settings
 # ---------------------------------------------------------------------------------------
-url:                  https://ryvor.github.io/
+url:                  https://iamdaeun25.github.io/
 source:               .
 destination:          ./_site
 include:
@@ -20,8 +20,8 @@ exclude:
   - Gemfile.lock
   - node_modules
 
-lang:                 en-US
-timezone:             Europe/London
+lang:                 ko-KR
+timezone:             Asia/Seoul
 
 keywords:
   - MultiDomainX
@@ -31,14 +31,14 @@ author:               # This should be the same author as first entry in `_data/
   email:              iamdaeun1225@naver.com
   about:              "UI/UX Designer"
   picture:
-    path:             /assets/img/ryvor.png
+    path:             /assets/img/users/cutecat_profile.png
   social:
     github:           iamdaeun25
     instagram:        rkdekdms00 
     email:            iamdaeun1225@naver.com
 github_username:      iamdaeun25
 
-copyright:            © ryvor 2023. All rights reserved.
+copyright:            © daeun 2023. All rights reserved.
 legal:                # Add links to the footer. Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
   - title:            Licenses
     url:              /Licenses/
