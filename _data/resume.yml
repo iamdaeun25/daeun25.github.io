@@ -25,7 +25,7 @@ basics:
     - network: "Email"
       username: "iamdaeun1225"
       url: "iamdaeun1225@naver.com"
-work:
+  work:
   - company:     "Carpetright, St Neots"
     position:    "Store Manager"
     website:     "https://www.carpetright.co.uk/store/st-neots/"

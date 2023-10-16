@@ -7,7 +7,7 @@ hide_title:        false
 
 layout:            resume
 cover:             false
-sidebar:           true
+sidebar:           false
 order:             3
 
 image:

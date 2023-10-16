@@ -7,7 +7,7 @@ hide_title:       false
 
 layout:           projects
 cover:            false
-sidebar:          true
+sidebar:          false
 order:            1
 
 image:

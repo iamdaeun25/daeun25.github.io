@@ -17,10 +17,10 @@ image:
     960w:         /assets/img/posts/banner@0,5x.png
     480w:         /assets/img/posts/banner@0,25x.png
 
-title:            Posts
-description:      All the posts in blog.
+title:            Portfolio
+description:      강다은의 포트폴리오입니다.
 hide_description: false
-permalink:        /Posts/
+permalink:        /Portfolio/
 
 grouped:          true
 ---
