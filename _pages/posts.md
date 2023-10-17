@@ -7,7 +7,7 @@ hide_title:       false
 
 layout:           posts
 cover:            false
-sidebar:          true
+sidebar:          false
 order:            2
 
 image:
@@ -17,10 +17,10 @@ image:
     960w:         /assets/img/posts/banner@0,5x.png
     480w:         /assets/img/posts/banner@0,25x.png
 
-title:            Portfolio
-description:      강다은의 포트폴리오입니다.
+title:            Posts
+description:      This is posts.
 hide_description: false
-permalink:        /Portfolio/
+permalink:        /Posts/
 
 grouped:          true
 ---

@@ -7,7 +7,7 @@ hide_title:       false
 
 layout:           projects
 cover:            false
-sidebar:          false
+sidebar:          true
 order:            1
 
 image:
@@ -20,7 +20,7 @@ image:
 title:            Projects
 description:      All the projects I've done so far.
 hide_description: false
-permalink:        /Projects/
+permalink:        /Portfolio/
 
 show_collection:  projects	
 ---
