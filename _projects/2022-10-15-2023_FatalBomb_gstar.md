@@ -1,7 +1,7 @@
 ---
 last_modified_at: 2022-10-15
-no_link_title:    false 
-no_excerpt:       false 
+no_link_title:    true 
+no_excerpt:       true 
 hide_image:       true
 
 layout:           post
@@ -18,7 +18,7 @@ image:
 caption:          
 
 title:            2022 FatalBomb G-star
-hide_title:       false
+hide_title:       true
 description:      포트폴리오
 hide_description: true
 date:             2022-10-15 15:42:00
