@@ -28,7 +28,6 @@ selected_posts:
 projects_page:    /Portfolio/
 selected_projects: # MAX 4
   - _projects/2022-10-15-2023_FatalBomb_gstar.md
-  - _projects/2023-10-15-2023_FatalBomb.md
 ---
 
 # 소통하는 디자이너
@@ -38,8 +37,7 @@ selected_projects: # MAX 4
 항상 배우는 자세로 일하며 팀원들과의 커뮤니케이션을 중요시하는 디자이너입니다. <br>
 
 ---
-포트폴리오는 [<span style="color:skyblue">이곳</span>](/assets/resume/강다은_01055412047_포트폴리오.pdf)을 통해서 PDF로도 다운 받으실 수 있습니다.
-<br>
+
 
 ---
 
