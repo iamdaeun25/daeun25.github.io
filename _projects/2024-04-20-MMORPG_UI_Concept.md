@@ -10,11 +10,11 @@ sidebar:          false
 order:            0
 
 image:
-  path:           /assets/img/portfolio3/1.png
+  path:           /assets/img/projects/mmorpg중세판타지/mmorpg-1.png
   srcset:
-    1920w:        /assets/img/portfolio3/1.png
-    960w:         /assets/img/portfolio3/1.png
-    480w:         /assets/img/portfolio3/1.png
+    1920w:        /assets/img/projects/mmorpg중세판타지/mmorpg-1.png
+    960w:        /assets/img/projects/mmorpg중세판타지/mmorpg-1.png
+    480w:        /assets/img/projects/mmorpg중세판타지/mmorpg-1.png
 caption:          
 
 title:            MMORPG UI Concept
@@ -28,14 +28,9 @@ tag:              General
 ---
 
 
-![Image](/assets/img/portfolio3/2.png)
-![Image](/assets/img/portfolio3/3.png)
-![Image](/assets/img/portfolio3/4.png)
-![Image](/assets/img/portfolio3/5.png)
-![Image](/assets/img/portfolio3/6.png)
-![Image](/assets/img/portfolio3/7.png)
-![Image](/assets/img/portfolio3/8.png)
-![Image](/assets/img/portfolio3/9.png)
-![Image](/assets/img/portfolio3/10.png)
-![Image](/assets/img/portfolio3/11.png)
-![Image](/assets/img/portfolio3/12.png)
+![Image](/assets/img/projects/mmorpg중세판타지/mmorpg-1.png)
+![Image](/assets/img/projects/mmorpg중세판타지/mmorpg-2.png)
+![Image](/assets/img/projects/mmorpg중세판타지/mmorpg-3.png)
+![Image](/assets/img/projects/mmorpg중세판타지/mmorpg-4.png)
+![Image](/assets/img/projects/mmorpg중세판타지/mmorpg-5.png)
+![Image](/assets/img/projects/mmorpg중세판타지/mmorpg-6.png)
