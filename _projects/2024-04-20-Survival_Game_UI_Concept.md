@@ -19,7 +19,7 @@ caption:
 
 title:            Survival Game UI Concept
 hide_title:       false
-description:      포트폴리오
+description:      개인 작업물
 hide_description: true
 date:             2024-04-20 15:42:00
 featured:         false

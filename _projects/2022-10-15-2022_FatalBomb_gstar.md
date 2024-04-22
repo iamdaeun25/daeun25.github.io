@@ -19,7 +19,7 @@ caption:
 
 title:            2022 FatalBomb G-star
 hide_title:       true
-description:      Paprika Industry
+description:      회사 작업물
 hide_description: true
 date:             2022-10-15 15:42:00
 featured:         false
