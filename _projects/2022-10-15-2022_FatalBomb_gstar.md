@@ -33,7 +33,6 @@ tag:              General
 ![Image](/assets/img/projects/2022Fatalbomb/page3.png)
 ![Gif](/assets/img/projects/2022Fatalbomb/page4_0.gif){: width="1920px" height="1080px"}
 ![Image](/assets/img/projects/2022Fatalbomb/page4.png)
-![Image](/assets/img/projects/2022Fatalbomb/page4_1.png)
 ![Gif](/assets/img/projects/2022Fatalbomb/page5_0.gif){: width="1920px" height="1080px"}
 ![Image](/assets/img/projects/2022Fatalbomb/page5.png)
 ![Gif](/assets/img/projects/2022Fatalbomb/page6_0.gif){: width="1920px" height="1080px"}
@@ -43,4 +42,5 @@ tag:              General
 ![Image](/assets/img/projects/2022Fatalbomb/page8.png)
 ![Image](/assets/img/projects/2022Fatalbomb/page9.png)
 ![Image](/assets/img/projects/2022Fatalbomb/page10.png)
+![Image](/assets/img/projects/2022Fatalbomb/page10-1.png)
 ![Image](/assets/img/projects/2022Fatalbomb/page11.png)
