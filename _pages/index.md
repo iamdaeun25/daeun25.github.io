@@ -17,8 +17,8 @@ image:
     960w:         /assets/img/home/banner@0,5x.png
     480w:         /assets/img/home/banner@0,25x.png
 
-title:            Home
-description:      Discover my skills, experiences, and projects
+title:            Daeun Portfolio
+description:      안녕하세요. 다은의 포트폴리오입니다.
 hide_description: true
 permalink:        /
 
