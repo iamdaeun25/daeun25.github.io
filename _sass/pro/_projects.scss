@@ -31,7 +31,7 @@ main:not(.layout-resume) {
       margin-left: -1rem - $gutter;
       margin-right: -2rem;
     }
-    .column-1-2 { width: 50%; }
+    .column-1-2 { width: 30%; }
   }
 
   @media screen and (min-width: $break-point-dynamic) {
