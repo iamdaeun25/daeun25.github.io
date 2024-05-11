@@ -17,7 +17,7 @@ image:
     960w:         /assets/img/projects/banner@0,5x.png
     480w:         /assets/img/projects/banner@0,25x.png
 
-title:            Projects
+title:            Game UI/UX
 description:      All the projects I've done so far.
 hide_description: false
 permalink:        /Portfolio/
