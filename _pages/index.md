@@ -18,7 +18,7 @@ image:
     480w:         /assets/img/home/banner@0,25x.png
 
 title:            Daeun's Portfolio
-description:      환영합니다. 다은의 포트폴리오입니다.
+description:      들어오세요. 다은의 포트폴리오입니다.
 hide_description: true
 permalink:        /
 
