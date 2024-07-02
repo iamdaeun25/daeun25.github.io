@@ -28,8 +28,4 @@ tag:              General
 ---
 
 
-![Image](/assets/img/projects/서바이벌게임(면접과제)/survival-1.png)
-![Image](/assets/img/projects/서바이벌게임(면접과제)/survival-2.png)
-![Image](/assets/img/projects/서바이벌게임(면접과제)/survival-3.jpg)
-![Image](/assets/img/projects/서바이벌게임(면접과제)/survival-4.jpg)
-![Image](/assets/img/projects/서바이벌게임(면접과제)/survival-5.png)
+![Image](/assets/img/projects/서바이벌게임(면접과제)/Survival_00.png)
