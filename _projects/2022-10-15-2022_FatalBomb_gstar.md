@@ -28,19 +28,11 @@ tag:              General
 ---
 
 
-![Image](/assets/img/projects/2022Fatalbomb/page1.png)
-![Image](/assets/img/projects/2022Fatalbomb/page2.png)
-![Image](/assets/img/projects/2022Fatalbomb/page3.png)
+![Image](/assets/img/projects/2022Fatalbomb/G-star-fatalbomb-01.jpg)
+![Image](/assets/img/projects/2022Fatalbomb/G-star-fatalbomb-02.jpg)
 ![Gif](/assets/img/projects/2022Fatalbomb/page4_0.gif){: width="1920px" height="1080px"}
-![Image](/assets/img/projects/2022Fatalbomb/page4.png)
+![Image](/assets/img/projects/2022Fatalbomb/G-star-fatalbomb-03.jpg)
 ![Gif](/assets/img/projects/2022Fatalbomb/page5_0.gif){: width="1920px" height="1080px"}
-![Image](/assets/img/projects/2022Fatalbomb/page5.png)
+![Image](/assets/img/projects/2022Fatalbomb/G-star-fatalbomb-04.jpg)
 ![Gif](/assets/img/projects/2022Fatalbomb/page6_0.gif){: width="1920px" height="1080px"}
-![Image](/assets/img/projects/2022Fatalbomb/page6.png)
-![Image](/assets/img/projects/2022Fatalbomb/page6_1.png)
-![Image](/assets/img/projects/2022Fatalbomb/page7.png)
-![Image](/assets/img/projects/2022Fatalbomb/page8.png)
-![Image](/assets/img/projects/2022Fatalbomb/page9.png)
-![Image](/assets/img/projects/2022Fatalbomb/page10.png)
-![Image](/assets/img/projects/2022Fatalbomb/page10-1.png)
-![Image](/assets/img/projects/2022Fatalbomb/page11.png)
+![Image](/assets/img/projects/2022Fatalbomb/G-star-fatalbomb-05.png)
