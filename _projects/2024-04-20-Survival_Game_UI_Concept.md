@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2024-04-20
+last_modified_at: 2023-11-20
 no_link_title:    false 
 no_excerpt:       false 
 hide_image:       true
@@ -21,7 +21,7 @@ title:            Survival Game UI Concept
 hide_title:       false
 description:      개인 작업물
 hide_description: true
-date:             2024-04-20 15:42:00
+date:             2023-11-20 15:42:00
 featured:         false
 
 tag:              General
