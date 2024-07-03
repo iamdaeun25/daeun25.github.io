@@ -27,9 +27,10 @@ selected_posts:
   - _posts/2023-05-15-Welcome.md
 projects_page:    /Portfolio/
 selected_projects: # MAX 4
-  - _projects/2024-04-01-제2의나라_모작.md
+  - _projects/2024-04-20-Subculture_UI_Concept.md
   - _projects/2024-04-20-MMORPG_UI_Concept.md
   - _projects/2024-04-20-Survival_Game_UI_Concept.md
+  - _projects/2024-04-01-제2의나라_모작.md
 ---
 
 # 소통하는 디자이너
